@@ -1,11 +1,13 @@
 {
   "Activity Monitor": "activity",
+  "活动监视器": "activity",
   "Chrome Canary": "chrome_canary",
   "Code - Insiders": "code",
   "Google Chrome Canary": "chrome_canary",
   "Google Chrome": "chrome",
   "System Preferences": "system",
   "System Settings": "system",
+  "系统设置": "system",
   "Adobe Illustrator 2023": "illustrator",
   "Adobe Photoshop 2023": "photoshop",
   "Microsoft Word": "word",
